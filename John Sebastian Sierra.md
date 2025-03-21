@@ -3,7 +3,11 @@
 ## John Sebastian Sierra Gutierrez
 **Profesión:** Gestor de Mercados
 ## Perfil
-Profesional con formación en análisis y gestión de mercados, enfocado en la identificación de oportunidades comerciales y el desarrollo de estrategias para mejorar la competitividad de productos y servicios. Capaz de realizar estudios de mercado, analizar tendencias, gestionar relaciones con proveedores, controlar inventarios y ejecutar estrategias de ventas. Con habilidades en el manejo de herramientas digitales y en la toma de decisiones basadas en datos para optimizar los recursos y maximizar el rendimiento comercial. Con enfoque en la satisfacción del cliente y en la mejora continua de los procesos comerciales.
+Soy un profesional con una sólida formación como Tecnólogo en Gestión de Mercados, complementada con habilidades especializadas en diseño gráfico y estrategias de marketing. Mi experiencia se extiende a la creación de campañas de marketing efectivas, la gestión de proyectos y el diseño de materiales visuales impactantes.
+
+Mi dominio de herramientas como Photoshop e Illustrator me permite transformar ideas en diseños atractivos que refuerzan la identidad de la marca y captan la atención del público objetivo. He demostrado mi capacidad para aumentar las ventas y mejorar el rendimiento de las campañas de marketing a través de la implementación de estrategias innovadoras y la adaptación a las últimas tendencias del mercado.
+
+Soy una persona proactiva, orientada a resultados y con una gran capacidad para trabajar en equipo. Me apasiona el mundo del marketing y estoy constantemente buscando nuevas formas de innovar y superar las expectativas.
 
 ## 📞 Contacto
 - **Email:** [jhonsierra2407@gmail.com](mailto:ojhonsierra2407@gmail.com)
@@ -16,11 +20,13 @@ Profesional con formación en análisis y gestión de mercados, enfocado en la i
 ## 🎓 Educación
 ### **Servicio Nacional de Aprendizaje** _(2023 - 2025)_
 - Tecnologo en gestion de mercados.
+### **Colegio Lorenzo de Alcantuz** _(2011 - 2022)_
+- Bachiller.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Marketing Digital**
+- **Planificacion y gestion de proyectos**
+- **Conocimiento del comportamiento del consumidor**
 
 ---
 
