@@ -2,20 +2,20 @@
 
 ## John Sebastian Sierra Gutierrez
 **Profesión:** Gestor de Mercados
+## Perfil
+Profesional con formación en análisis y gestión de mercados, enfocado en la identificación de oportunidades comerciales y el desarrollo de estrategias para mejorar la competitividad de productos y servicios. Capaz de realizar estudios de mercado, analizar tendencias, gestionar relaciones con proveedores, controlar inventarios y ejecutar estrategias de ventas. Con habilidades en el manejo de herramientas digitales y en la toma de decisiones basadas en datos para optimizar los recursos y maximizar el rendimiento comercial. Con enfoque en la satisfacción del cliente y en la mejora continua de los procesos comerciales.
+
 ## 📞 Contacto
 - **Email:** [jhonsierra2407@gmail.com](mailto:ojhonsierra2407@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/john-sierra-gutierrez](www.linkedin.com/in/john-sierra-gutierrez)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Lafayette** _(2025 - 2025)_
+- Auxiliar de gestor de mercados: Apoyo en el análisis de tendencias y demanda, gestión de proveedores, control de inventarios y seguimiento de ventas. Colaboración en la elaboración de estrategias comerciales y atención al cliente para mejorar la competitividad de la empresa.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Servicio Nacional de Aprendizaje** _(2023 - 2025)_
+- Tecnologo en gestion de mercados.
 
 ## 💡 Habilidades
 - **Habilidad 1**
