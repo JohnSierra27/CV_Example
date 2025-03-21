@@ -1,7 +1,7 @@
 # Hoja de Vida
 
 ## John Sebastian Sierra Gutierrez
-**Profesión:** Gestor de Mercados:Soy un profesional con una sólida formación como Tecnólogo en Gestión de Mercados, complementada con habilidades especializadas en diseño gráfico y estrategias de marketing. Mi experiencia se extiende a la creación de campañas de marketing efectivas, la gestión de proyectos y el diseño de materiales visuales impactantes.
+**Profesión:** Gestor de Mercados: Soy un profesional con una sólida formación como Tecnólogo en Gestión de Mercados, complementada con habilidades especializadas en diseño gráfico y estrategias de marketing. Mi experiencia se extiende a la creación de campañas de marketing efectivas, la gestión de proyectos y el diseño de materiales visuales impactantes.
 
 Mi dominio de herramientas como Photoshop e Illustrator me permite transformar ideas en diseños atractivos que refuerzan la identidad de la marca y captan la atención del público objetivo. He demostrado mi capacidad para aumentar las ventas y mejorar el rendimiento de las campañas de marketing a través de la implementación de estrategias innovadoras y la adaptación a las últimas tendencias del mercado.
 
