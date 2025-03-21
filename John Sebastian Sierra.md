@@ -3,8 +3,12 @@
 ## John Sebastian Sierra Gutierrez
 **Profesión:** Gestor de Mercados
 ## 📞 Contacto
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [jhonsierra2407@gmail.com](mailto:ojhonsierra2407@gmail.com)
+- **LinkedIn:** [www.linkedin.com/in/john-sierra-gutierrez
+
+](www.linkedin.com/in/john-sierra-gutierrez
+
+)
 
 ## 🏢 Experiencia Laboral
 ### **Empresa XYZ** _(2020 - Actualidad)_
