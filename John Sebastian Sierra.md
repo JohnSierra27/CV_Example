@@ -4,11 +4,7 @@
 **Profesión:** Gestor de Mercados
 ## 📞 Contacto
 - **Email:** [jhonsierra2407@gmail.com](mailto:ojhonsierra2407@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/john-sierra-gutierrez
-
-](www.linkedin.com/in/john-sierra-gutierrez
-
-)
+- **LinkedIn:** [www.linkedin.com/in/john-sierra-gutierrez](www.linkedin.com/in/john-sierra-gutierrez)
 
 ## 🏢 Experiencia Laboral
 ### **Empresa XYZ** _(2020 - Actualidad)_
